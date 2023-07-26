@@ -1,0 +1,9 @@
+Package: uaskomstat
+Type: Package
+Title: Package UAS KOMSTAT
+Version: 1.0
+Author: Arey Zulhakim (20611152), Afghan Al Malik Efendi (21611088), Rahmat Riyadi (21611122), Fawaz Fairuzzaman (21611124), Ammar Haidar Makarim (21611129).
+Maintainer: Haidar <21611129@students.uii.ac.id>
+Description: Package yang berfungsi untuk menghitung probabilitas memenangkan 1-12 line bingo pada lemparan tertentu dengan bola 0-99, menghitung jarak tempuh pada GLBB, dan menghitung kecepatan akhir pada GJB.
+License: Gpl-2|Gpl-3
+
